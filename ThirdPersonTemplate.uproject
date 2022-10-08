@@ -18,7 +18,7 @@
 		},
 		{
 			"Name": "TwitchWorks",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/50ad7661b7274a408034fc4ad7e4aa82"
 		}
 	]
