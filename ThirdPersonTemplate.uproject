@@ -15,11 +15,6 @@
 			"Name": "TwitchIntegrator",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aab34378365e41b18115c7bf8931dd31"
-		},
-		{
-			"Name": "TwitchWorks",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/50ad7661b7274a408034fc4ad7e4aa82"
 		}
 	]
 }
